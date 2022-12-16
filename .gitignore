@@ -1,3 +1,4 @@
 .env
 .cog
 .DS_Store
+speaker-diarization/__pycache__
